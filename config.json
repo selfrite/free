@@ -1,0 +1,5 @@
+{
+    "prefix":"/",
+    "token":"process.env.token",
+    "owners":["137607917724631040"]
+  }
